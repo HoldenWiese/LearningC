@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654644476 source:c:\udemy\c\milestones\milestone1firstcalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
